@@ -1,0 +1,14 @@
+/* Estilos para music.html */
+#album,
+#video1,
+#video2 {
+    margin-top: 20px;}
+
+
+
+/* Estilos para enlaces internos en music.html */
+a[href^="#"] {
+    color: #0077b5;
+    text-decoration: none;
+    margin-right: 10px;
+}

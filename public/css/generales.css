@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+a {
+    color: #0077b5;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+p {
+    color: #666;
+}
+
+
+.fa {
+    font-size: 20px;
+    margin-right: 5px;
+}
